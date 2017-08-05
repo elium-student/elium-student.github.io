@@ -1,1 +1,3 @@
-# elium-student.github.io
+# my portfolio  
+  
+checkout how we use github to create a portfolio  
